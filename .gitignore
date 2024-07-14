@@ -1,0 +1,17 @@
+# Ignorar diretórios e arquivos do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.env
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
+.DS_Store
+
+# Ignorar pastas
+excel-exemple/
